@@ -4,7 +4,7 @@ provider "aws" {
 }
 
 
-resource "aws_s3_bucket" "test_zehavit_new_one" {
+resource "aws_s3_bucket" "1111111" {
   # bucket is not encrypted
   bucket = "sample-bucket-zehavitttttt-prisma"
   acl    = "private"
